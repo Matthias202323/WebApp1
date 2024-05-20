@@ -1,4 +1,4 @@
 # WebApp1
 
-use http to run <br>
+use http or https to run <br>
 Privacy section is for Authorized 
